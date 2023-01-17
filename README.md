@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @HeetAnkola
+- 💻 Intern at Evertz
 - 👀 I’m interested in developing software and website
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any working which is in my domain
