@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @HeetAnkola
-- 💻 Intern at Evertz
-- 👀 I’m interested in developing software and website
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any working which is in my domain
-- 📫 How to reach me "mail: heetankola32520@gmail.com"
-
-<!---
-HeetAnkola/HeetAnkola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://metrics.lecoq.io/HeetAnkola?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
